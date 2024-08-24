@@ -2,7 +2,7 @@ import mysql.connector
 
 try:
     sql_connection = mysql.connector.connect(
-        user='firstpyth', password='py6lfr2ton0ir9_S',
+        user='firstpyth', password='',
         host='db4free.net', database='firstpyth')
 except Exception as err:
     print(err)
