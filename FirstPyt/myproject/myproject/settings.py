@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': BASE_DIR / 'firstpyth',
         'USER': 'firstpyth',
-        'PASSWORD': 'py6lfr2ton0ir9_S',
+        'PASSWORD': '',
         'HOST': 'db4free.net',
         "PORT": '3306'
     }
